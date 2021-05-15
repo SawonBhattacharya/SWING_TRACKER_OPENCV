@@ -21,6 +21,6 @@ the command includes the python file as well as the video file. The code is appl
 
 
 ### Fututre Scope
-    This project is just a first step of implementing the hotspot.
+This project is just a first step of implementing the hotspot.
 
 <a href="https://youtu.be/SlPtlaAIG24">Check the Demo</a>
